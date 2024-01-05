@@ -4,7 +4,7 @@ Welcome to **my** awesome project! This is a simple text-based adventure game de
 ***
 sdfjlksdjflkjsdklfjdklsj
 
-[爱青职的Markdown库](edge://extensions/)。
+[爱青职的Markdown库](edge://extensions/)
 
 # ·第二项
 # >How to Play
